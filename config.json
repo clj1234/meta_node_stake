@@ -2,7 +2,7 @@
   "token": {
     "sepolia": {
       "name": "MyMemeToken",
-      "tokenAddress": "0x9dFce74DEbC4d9a1456965bb4F81f257c577Bb2d"
+      "tokenAddress": "0x2140672baa3E6184247D7ac26d0Bc066172c85Ff"
     },
     "localhost": {
       "name": "MyMemeToken",
