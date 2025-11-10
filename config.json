@@ -1,0 +1,12 @@
+{ 
+  "token": {
+    "sepolia": {
+      "name": "MyMemeToken",
+      "tokenAddress": "0x9dFce74DEbC4d9a1456965bb4F81f257c577Bb2d"
+    },
+    "localhost": {
+      "name": "MyMemeToken",
+      "tokenAddress": "0x9dFce74DEbC4d9a1456965bb4F81f257c577Bb2d"
+    }
+  }
+}
